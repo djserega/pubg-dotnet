@@ -22,7 +22,7 @@ namespace Pubg.Net
         [EnumMember(Value = "DihorOtok_Main")]
         Vikendi,
         [EnumMember(Value = "Baltic_Main")]
-        Baltic,
+        ErangelRemastered,
         [EnumMember(Value = "Chimera_Main")]
         Paramo,
         [EnumMember(Value = "Heaven_Main")]
